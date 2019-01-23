@@ -1,5 +1,9 @@
 *   text=auto
 
+*.sh     -crlf
+*.ac     -crlf
+*.am     -crlf
+
 *.c text
 *.h text
 *.cpp text
